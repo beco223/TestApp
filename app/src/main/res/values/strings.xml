@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="click_here">click here</string>
+    <string name="if_you_have_not_account">if you have not account?</string>
+    <string name="login">Login</string>
+    <string name="plz_enter_your_password">Enter your password</string>
+    <string name="plz_enter_your_mail">Enter your mail</string>
+    <string name="register">Register</string>
+    <string name="if_you_have_an_account">if you have an account?</string>
+    <string name="plz_rewrite_password">confirm password</string>
+    <string name="skip">Skip</string>
+    <string name="back">back</string>
+    <string name="next">Next</string>
+    <string name="yummy_food">Yummy Food</string>
+    <string name="this_is_a_rondom_text_apper_in_intro_of_application_only_once">this is a rondom text apper in Intro of Application Only Once</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello home fragment</string>
+</resources>

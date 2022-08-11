@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/drawable/back.xml" value="0.2345" />
+        <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/drawable/custom.xml" value="0.1055" />
+        <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/drawable/favorite.xml" value="0.2345" />
+        <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/drawable/home.xml" value="0.2345" />
+        <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/drawable/next.xml" value="0.2345" />
+        <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/drawable/text_bacground.xml" value="0.2345" />
+        <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/layout/activity_intro.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/layout/activity_main2.xml" value="0.33" />
+        <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/layout/activity_main3.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/layout/activity_main4.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/layout/fragment_favroite.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/layout/fragment_home_fagment.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/layout/fragment_profile_framgnet.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/layout/intro_page.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/menu/bottom_nav.xml" value="0.275" />
+        <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/menu/nav_bottom.xml" value="0.365625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
