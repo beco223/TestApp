@@ -4,12 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/drawable/back.xml" value="0.2345" />
+        <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/drawable/cddd.xml" value="0.26" />
         <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/drawable/custom.xml" value="0.1055" />
         <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/drawable/favorite.xml" value="0.2345" />
         <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/drawable/home.xml" value="0.2345" />
         <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/drawable/next.xml" value="0.2345" />
         <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/drawable/text_bacground.xml" value="0.2345" />
+        <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/layout/activity_ecommerce.xml" value="0.3729166666666667" />
         <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/layout/activity_intro.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/layout/activity_list_item.xml" value="0.38697916666666665" />
         <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/layout/activity_main2.xml" value="0.33" />
         <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/layout/activity_main3.xml" value="0.358695652173913" />
@@ -19,6 +22,9 @@
         <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/layout/fragment_home_fagment.xml" value="0.358695652173913" />
         <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/layout/fragment_profile_framgnet.xml" value="0.358695652173913" />
         <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/layout/intro_page.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/layout/item_ecomerce.xml" value="0.3859375" />
+        <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/layout/item_gridview.xml" value="0.3859375" />
+        <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/layout/item_reclycler.xml" value="0.3859375" />
         <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/menu/bottom_nav.xml" value="0.275" />
         <entry key="..\:/Users/VTE/AndroidStudioProjects/TestApp/app/src/main/res/menu/nav_bottom.xml" value="0.365625" />
       </map>

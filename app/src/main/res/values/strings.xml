@@ -15,4 +15,5 @@
     <string name="this_is_a_rondom_text_apper_in_intro_of_application_only_once">this is a rondom text apper in Intro of Application Only Once</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello home fragment</string>
+    <string name="birthday">BirthDay</string>
 </resources>

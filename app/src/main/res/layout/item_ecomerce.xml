@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="10dp"
+    android:background="@color/cardview_shadow_end_color"
+    android:layout_margin="5dp">
+    <androidx.constraintlayout.utils.widget.ImageFilterButton
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:src="@drawable/twitter"/>
+
+</androidx.cardview.widget.CardView>
